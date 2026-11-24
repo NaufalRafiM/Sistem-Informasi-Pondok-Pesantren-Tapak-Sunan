@@ -1,0 +1,6 @@
+{
+  "name": "Sistem Informasi Pondok Pesantren Tapak Sunan",
+  "description": "Sistem Informasi Terpadu Pondok Pesantren Tapak Sunan: Manajemen Keuangan SPP & Kas, Akademik Salaf & Sekolah, Absensi, Asrama, dan Penanganan Kesehatan Santri dengan RBAC 5 Peran.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
